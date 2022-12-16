@@ -1,0 +1,6 @@
+Development Skills (Technologies)
+1. Modern Javascript tools
+NodeJS, React, Typescript
+2. Deployment and Cloud tech
+AWS, Redis, postgres, Jenkins, Docker, Kubernetes
+3. Golang, Python

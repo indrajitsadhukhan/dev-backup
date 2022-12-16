@@ -1,0 +1,20 @@
+Transaction hash
+0xffaf2f16470cee91b10ddaf1ddc6e9dd869f20ae44a4006847dcfb3812062f0f
+The details of the Transaction can be viewed at
+https://sepolia.etherscan.io/tx/0xffaf2f16470cee91b10ddaf1ddc6e9dd869f20ae44a4006847dcfb3812062f0f
+
+Contract deployed at 
+0x09E790dA261993Ae53E498d14c3b4904d0bF208e
+
+1. What we need to do after changing solidity file ?
+If we change the solidity file Demo.sol then we need to compile again using node compile.js so that a new Demo.json file is generated.
+Then we have to run node deploy.js to deploy the smart contract
+
+2. Once we deployed the smart contract we just need to execute node call.js to call deployed contract functions.
+
+------------------------------------------------------
+Tasks
+1. Create a NFT using call.js
+Subtasks
+1. Write solidity files CryptoCoder.sol
+2. 

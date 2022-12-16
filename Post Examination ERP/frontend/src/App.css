@@ -1,0 +1,45 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    margin:3%;
+    width: 80%;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+
+}
+.section-details{
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+.section-items{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.section-items-head{
+    color: grey;
+    width: 20%;
+}
+.section-items-details{
+    color: black;
+    align-content: flex-start;
+    margin-left: 20px;
+    width: 40%;
+}
+.section-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.edit-button{
+    height:35px;
+    text-transform: none !important;
+}
+.save-button{
+    height:30px;
+    text-transform: none !important;
+}

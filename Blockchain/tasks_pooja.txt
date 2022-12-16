@@ -1,0 +1,5 @@
+Tasks given to me by Pooja
+1. Learn React UI
+2. Implement connect to Metamask
+3. UI with buttons to call the APIs
+4. On click button call api and api response displayed on page.

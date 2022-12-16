@@ -1,0 +1,9 @@
+I have included metadata for NFTs using Pinata APIs
+I have completed the NFT Apis including the issues pointed out by Biswanath. 
+I am waiting for deployment.
+Code
+github
+
+
+I have completed the NFT apis and today I have completed the API documentation in swagger ui
+It is still not deployed, I have asked Ramagani to deploy.

@@ -1,0 +1,6 @@
+@use '../../common.module';
+
+.tabLink__active {
+  border-right: 2px solid #065cb1;
+  background-color: common.$bg-blue;
+}
